@@ -1,16 +1,13 @@
-### Hi there 👋
+"In the GitHub of humanity, I am the only contributor." - Me, probably
 
-<!--
-**Autherain/Autherain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently piloting my code through the third impact of bugs and errors.
 
-Here are some ideas to get you started:
+💻 Programming like it's Instrumentality Project - bringing all languages together into one cohesive mess.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡️ Reacting to issues faster than an Eva unit dodging an Angel attack.
+
+📝 Repository status: Engaged in a battle against procrastination. Send help.
+
+🔧 "Get in the code, Shinji!" - My inner developer trying to motivate me.
+
+# YouCanNotClone
